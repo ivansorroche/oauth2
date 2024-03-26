@@ -11,11 +11,11 @@ yarn dev
 # or
 pnpm dev
 ```
-
+```bash
 ADD Keys with Github account
 NEXT_PUBLIC_CLIENT_ID=clientId
 NEXT_PUBLIC_CLIENT_SECRET=secret
-
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
